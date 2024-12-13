@@ -150,5 +150,7 @@ footer li {
     header {
         padding: 5px 15px;
     }
-
+    h1, h2 {
+        font-size: 1.4rem;
+    }
 }
